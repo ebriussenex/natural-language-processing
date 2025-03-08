@@ -1,0 +1,1 @@
+* Assignment on Attention implementation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/25s_itmo/homeworks/hw02_attention/assignment_attention.ipynb)
