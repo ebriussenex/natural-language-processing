@@ -1,2 +1,2 @@
 Attention basics and TensorBoard:
-* Completed: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/25s_itmo/week03_attention/practice_Attention_basics_and_tensorboard.ipynb)
+* Practice vesion: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/25s_itmo/week03_attention/practice_Attention_basics_and_tensorboard.ipynb)

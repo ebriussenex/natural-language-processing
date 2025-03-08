@@ -1,1 +1,3 @@
 * Assignment on Attention implementation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/25s_itmo/homeworks/hw02_attention/assignment_attention.ipynb)
+
+* Extra assignment: finish the in-class notebook on char-level translation (transliteration) from [week03](https://github.com/girafe-ai/natural-language-processing/tree/25s_itmo/week03_attention) notebook.
