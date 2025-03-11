@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/f10c26a/week03_transformer_architecture/practice_03_transformer_architecture_implementation.ipynb)

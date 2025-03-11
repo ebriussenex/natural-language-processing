@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/fbe09d8/week02_seq2seq_and_attention/practice02_seq2seq_for_nmt.ipynb)

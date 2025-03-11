@@ -1,0 +1,3 @@
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/4ffbce5/week05_generative/practice05_1_tokenizers.ipynb)
+2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/4ffbce5/week05_generative/practice05_2_text_generation_parameters.ipynb)
+3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/natural-language-processing/blob/4ffbce5/week05_generative/practice05_3_loss_functions.ipynb)
